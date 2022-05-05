@@ -1,6 +1,6 @@
 # Página com Nuxt.js + Vuetify
 
-## Para quem ama gatos:
+## Para quem ama gatos 😻
 
 ### Acesse a page https://whycats.netlify.app/
 
