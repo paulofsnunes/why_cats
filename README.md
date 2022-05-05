@@ -1,8 +1,10 @@
-# Página com Nuxt.js + Vuetify para quem ama gatos.
+# Página com Nuxt.js + Vuetify
 
-### Acesse o site https://whycats.netlify.app/
+## Para quem ama gatos:
 
-## Melhorias serão feitas. Darei continuidade a página.
+### Acesse a page https://whycats.netlify.app/
+
+#### *Serão feitas novas implementações e melhorias. Com o tempo darei continuidade a página.
 
 ## Build Setup
 
