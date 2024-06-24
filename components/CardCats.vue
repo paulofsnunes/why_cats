@@ -58,7 +58,22 @@
             color="purple accent-2"
             class="mb-3"
             @click="getCat"
-            ><v-icon large>mdi-restore</v-icon>
+            >
+                <v-img
+                    src="/cat_paw.png"
+                    contain 
+                    width="24"
+                    height="24"
+                    class="acenar-left"
+                ></v-img>
+                <p class="custom-p">Clique para ver mais</p>
+                <v-img
+                    src="/cat_paw.png"
+                    contain 
+                    width="24"
+                    height="24"
+                    class="acenar-right"
+                ></v-img>
             </v-btn>
         </v-row>
     </v-responsive>
@@ -107,11 +122,49 @@ span {
 
 .v-btn {
     transition: all 0.2s;
+    width: 300px;
+    border-radius: 20px;
 }
 
 .v-btn:hover {
     transform: scale(1.1);
     position: relative;
     z-index: 1;
+}
+
+.custom-p {
+    margin-bottom: 0;
+}
+
+@keyframes acenar-esquerda {
+    0% {
+        transform: rotate(0deg);
+    }
+    50% {
+        transform: rotate(-10deg);
+    }
+    100% {
+        transform: rotate(0deg);
+    }
+}
+  
+@keyframes acenar-direita {
+    0% {
+        transform: rotate(0deg);
+    }
+    50% {
+        transform: rotate(10deg);
+    }
+    100% {
+        transform: rotate(0deg);
+    }
+}
+  
+.acenar-left {
+    animation: acenar-esquerda 2s ease-in-out infinite;
+}
+
+.acenar-right {
+    animation: acenar-direita 2s ease-in-out infinite;
 }
 </style>

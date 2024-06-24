@@ -7,7 +7,7 @@
             <p>Eu me chamo Paulo Franklin e sou o criador da landing page <strong>Why Cats?</strong>.</p>
             <p>Espero que você tenha gostado de visitar a page e, acima de tudo, passasse a idolatrar muito os felinos.</p>
             <p>Bom, eu decidi que essa aba da página fosse dedicada a falar um pouco sobre mim, quem eu sou, minha carreira e aonde quero chegar.</p>
-            <p>Sou natural de Porto Alegre/RS, nascido em 1989, formado em Direito pela PUCRS e atualmente resido em Florianópolis/SC com minha esposa e meus dois enteados.</p>
+            <p>Sou natural de Porto Alegre/RS, onde resido até o presente momento com minha esposa e meus dois enteados. Nasci em 21 de maio de 1989, em uma linda noite de domingo, para não atrapalhar o final de semana de ninguém. Sou formado em Direito pela PUCRS, concluído em 2013, e em Análise e Desenvolvimento de Sistemas pela Univali, finalizado em 2023.</p>
             <p>Trabalho desde os meus 16 anos de idade, sempre lidando com metas, prazos, alta demanda e por muitas vezes contato direto com clientes.</p>
             <p>Desde sempre demonstrei facilidade em áreas coligadas a tecnologia, principalmente a ciência da computação, a qual se mostrava muito intuitiva para mim. E foi no transcorrer do ano de 2020, no auge da pandemia do Coronavírus, que me encantei pela área de programação e desenvolvimento web. Comecei minha transição de carreira de uma forma a qual nunca tinha me inspirado antes.</p>
             <p>Sou curioso por natureza, adaptável, proativo e amo tecnologia. Estou constantemente me aperfeiçoando, realizando cursos e participando de bootcamps, principalmente com ênfase em front-end, uma paixão.</p>
