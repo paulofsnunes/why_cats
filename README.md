@@ -1,4 +1,10 @@
-# why_cats
+# Página com Nuxt.js + Vuetify
+
+## Para quem ama gatos 😻
+
+### Acesse a page https://whycats.netlify.app/
+
+#### 🏗️ Serão feitas novas implementações e melhorias. Com o tempo darei continuidade a página.
 
 ## Build Setup
 
